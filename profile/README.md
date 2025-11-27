@@ -1,4 +1,4 @@
-<div style="background-color:white;">
+<div>
     <p align="center">
         <img alt="" src="logo_gruppo.png" width="25%">
     </p>
