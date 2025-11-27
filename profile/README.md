@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="logo_gruppo.jpeg" width="25%">
+  <img alt="" src="logo_gruppo.png" width="25%">
 </p>
 
 <h1 align="center">NullPointers Group </h1>
