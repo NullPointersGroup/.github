@@ -1,6 +1,8 @@
-<p align="center">
-  <img alt="" src="logo_gruppo.png" width="25%">
-</p>
+<div style="background-color:white;">
+    <p align="center">
+        <img alt="" src="logo_gruppo.png" width="25%">
+    </p>
+</div>
 
 <h1 align="center">NullPointers Group </h1>
 
